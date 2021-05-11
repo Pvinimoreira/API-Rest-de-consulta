@@ -1,8 +1,6 @@
-package com.consulta.cidades.ConsultaCidades;
+package com.consulta.cidades.ConsultaCidades.pais;
 
 
-import com.consulta.cidades.ConsultaCidades.repository.PaisRepository;
-import com.consulta.cidades.ConsultaCidades.pais.Pais;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

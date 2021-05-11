@@ -1,8 +1,5 @@
 package com.consulta.cidades.ConsultaCidades.pais;
 
-
-import org.hibernate.annotations.NaturalId;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
