@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=heroku build/libs/ConsultaCidade-0.0.1-SNAPSHOT.JAR
+web: java -jar -Dspring.profiles.active=heroku build/libs/consultacidades-0.0.1-SNAPSHOT.jar
